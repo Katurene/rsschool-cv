@@ -28,3 +28,14 @@
 - Brackets
 - JetBrains PhpStorm
 - Visual Studio Code
+
+
+### A small example of my code:
+
+```javascript
+function message() {
+
+  alert( 'Всем привет!' );
+
+}
+```
