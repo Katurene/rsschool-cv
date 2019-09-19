@@ -7,3 +7,8 @@
 - **E-mail:**   <Katurene@tut.by>  /  <Katurene7@gmail.com>
 - **Facebook:** [Facebook](https://www.facebook.com/katurene)
 - **Git:**      [Github](https://github.com/Katurene)
+
+
+### Summary:
+
+*My name is Katya. I like sports and travels. I also like to learn new unfamiliar things for me. My goal is to start career in IT and become a successful web developer.*
