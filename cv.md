@@ -39,3 +39,15 @@ function message() {
 
 }
 ```
+
+
+### Education:
+
+*Institute of Modern Knowledge named after A.M. Shirokov (finished in 2006)*
+
+
+### Online courses:
+
+•	HTML & CSS courses on Codeacademy 
+
+•	Self-study in JavaScript for six month.
