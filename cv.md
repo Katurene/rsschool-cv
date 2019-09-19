@@ -51,3 +51,10 @@ function message() {
 •	HTML & CSS courses on Codeacademy 
 
 •	Self-study in JavaScript for six month.
+
+
+### English level:
+
+*Pre-Intermediate (A2)*
+
+*I studied English at school and university. I can watch and understand TV shows and movies in English, but my conversational skills are weak.*
